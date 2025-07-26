@@ -30,5 +30,5 @@ There is **no frontend** in this project. All services and endpoints are tested 
 
 ---
 
-## 🗺️ Service Architecture
+
 
